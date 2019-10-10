@@ -1,0 +1,56 @@
+body{
+    background-image: url("https://res.cloudinary.com/lizziedaws/image/upload/v1568738309/blue-brick-backgrounds-texture-wall_dbxkmq.jpg");
+    background-size: cover;
+}
+
+.top{
+    text-align: center;
+}
+.top img{
+    width: 50%;
+}
+table{
+    margin: auto;
+    color: white;
+    font-family: Arial;
+    text-align: left;
+}
+.win {
+    color: lightblue;
+}
+td{
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 0px;
+}
+.bold{
+    font-weight: bold;
+    text-align: left;
+    padding-left: 0px;
+    
+}
+.skinny{
+    font-weight: normal;
+}
+.blue{
+    color: deepskyblue;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.lil-img{
+    text-align: center;
+}
+.lil-img img{
+    height: 4rem;
+}
+
+.note{
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    color: deepskyblue;
+}
